@@ -1,5 +1,5 @@
 
-![NATASHA GIF](https://github.com/nsiramarco/nsiramarco/blob/main/Natasha%20siramarco.gif)
+![NATASHA GIF](https://github.com/nsiramarco/nsiramarco/blob/main/nsiramarcobanner.gif)
 
 ![Natasha's GitHub stats](https://github-readme-stats.vercel.app/api?username=nsiramarco&show_icons=true&theme=shades-of-purple)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nsiramarco&theme=nightowl&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
